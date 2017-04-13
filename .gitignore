@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+## jekyll
+_site/
+.sass-cache/
+.jekyll-metadata
